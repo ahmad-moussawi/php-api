@@ -1,5 +1,5 @@
 {
-    "name": "ahmad/api",
+    "name": "ahmad-moussawi/php-api",
     "description": "Api helper",
     "keywords": ["api", "twitter", "laravel"],
     "license": "MIT",
@@ -18,5 +18,5 @@
             "src/Twitter.php"
         ]
     },
-    "minimum-stability": "dev-master"
+    "minimum-stability": "dev"
 }
