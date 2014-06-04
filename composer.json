@@ -2,7 +2,7 @@
     "name": "ahmad-moussawi/php-api",
     "description": "Api helper",
     "type": "library",
-    "version": "0.2",
+    "version": "0.2.0",
     "keywords": ["api", "twitter", "laravel"],
     "license": "MIT",
     "authors": [
