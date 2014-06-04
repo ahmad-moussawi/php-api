@@ -1,0 +1,21 @@
+{
+    "name": "ahmad/api",
+    "description": "Api helper",
+    "keywords": ["api", "twitter", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ahmad Moussawi",
+            "email": "aymoussawi@gmail.com"
+        }
+    ],
+    "require": {
+        "j7mbo/twitter-api-php": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "src/Twitter.php"
+        ]
+    },
+    "minimum-stability": "dev"
+}
